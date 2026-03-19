@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pth
+*.zip
+trashnet-env/
+outputs/models/
+outputs/plots/
